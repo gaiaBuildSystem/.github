@@ -46,3 +46,18 @@ PhobOS is more complex than DeimOS, as it has to be compatible with the Toradex 
 
 > Torizon™ is a registered trademark of Toradex Group AG. Gaia project does not
 talk on behalf of Toradex or on behalf of any Toradex product.
+
+## PergamOS
+
+<p align="center">
+    <img
+        alt="PergamOS Logo"
+        src="./PergamOSLogo.png?v=2"
+        height="210"
+    />
+</p>
+
+PergamOS is the namespace for the Debian based container images library of the
+Gaia project. It's a collection of Debian based images that are used to build and as a base for applications.
+
+The PergamOS name is a reference to the ancient city of Pergamon, which was known for its library, the second largest in the ancient world, after the Library of Alexandria. Why not Alexandria then? Because Alexandria was put on fire and the library was destroyed. This is not the fate we want for our images.
