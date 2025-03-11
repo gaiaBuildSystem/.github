@@ -5,7 +5,7 @@
     <img
         alt="Gaia Logo"
         src="./GaiaBuildSystemLogoDebCircle.png"
-        height="212"
+        height="170"
     />
 </p>
 
@@ -19,11 +19,11 @@ Gaia core is the main component of the project. It's the tool that parses the re
 
 ## DeimOS
 
-<p align="center">
+<p align="center" style="background-color: #292929; padding: 10px;">
     <img
         alt="DeimOS Logo"
-        src="./DeimOS.png"
-        height="212"
+        src="./DeimOS3.png"
+        width="300"
     />
 </p>
 
@@ -32,11 +32,11 @@ The name is a play on words with "Debian" and "OS" and a reference to the Greek 
 
 ## PhobOS
 
-<p align="center">
+<p align="center" style="background-color: #292929; padding: 10px;">
     <img
         alt="PhobOS Logo"
-        src="./PhobOSLogo.png?v=2"
-        height="212"
+        src="./PhobOS.png"
+        width="300"
     />
 </p>
 
