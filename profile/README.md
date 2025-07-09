@@ -35,7 +35,7 @@ The name is a play on words with "Debian" and "OS" and a reference to the Greek 
 <p align="center">
     <img
         alt="PhobOS Logo"
-        src="./PhobOS1.png"
+        src="./PhobOS2.png"
         width="200"
     />
 </p>
