@@ -4,8 +4,8 @@
 <p align="center">
     <img
         alt="Gaia Logo"
-        src="./GaiaBuildSystemLogoDebCircle.png"
-        height="170"
+        src="./GaiaNewLogoCircle.png"
+        height="270"
     />
 </p>
 
