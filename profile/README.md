@@ -22,7 +22,7 @@ Gaia core is the main component of the project. It's the tool that parses the re
 <p align="center">
     <img
         alt="DeimOS Logo"
-        src="./DeimOS4.png"
+        src="./DeimOS5.png"
         width="200"
     />
 </p>
@@ -35,7 +35,7 @@ The name is a play on words with "Debian" and "OS" and a reference to the Greek 
 <p align="center">
     <img
         alt="PhobOS Logo"
-        src="./PhobOS2.png"
+        src="./PhobOS3.png"
         width="200"
     />
 </p>
@@ -52,7 +52,7 @@ talk on behalf of Toradex or on behalf of any Toradex product.
 <p align="center">
     <img
         alt="PergamOS Logo"
-        src="./PergamOS1.png"
+        src="./PergamOS2.png"
         height="110"
     />
 </p>
